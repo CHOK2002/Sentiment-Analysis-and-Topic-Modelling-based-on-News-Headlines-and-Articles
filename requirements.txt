@@ -1,6 +1,6 @@
 Owner using Python 3.12.5 
-If using Python 3.12.5, all librabries can direct pip install (no need specify version EXCEPt NUMPY)
-NUMPY MUST VERSION 1.26.4
+If using Python 3.12.5, all libraries can direct pip install (no need specify version EXCEPT NUMPY)
+NUMPY MUST VERSION == 1.26.4
 
 Libraries needed
 
