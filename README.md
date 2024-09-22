@@ -42,6 +42,12 @@ https://www.kaggle.com/datasets/pedroaribe/4000-cnn-articles-as-of-1062023
 - **Enhanced Computer Resources**
   - Deep learning and pretrained models require significant computational power for training and fine-tuning.
 
+ ## Setup 
+- git clone this repository
+- Go through the requirement.txt (Note that the **numpy** must == 1.26.4)
+- Download the datasets from kaggle
+- Once everything is complete, feel free to proceed with execution
+
 
 
 
