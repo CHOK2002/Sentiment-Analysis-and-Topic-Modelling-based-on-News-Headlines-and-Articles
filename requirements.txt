@@ -1,0 +1,33 @@
+Owner using Python 3.12.5 
+If using Python 3.12.5, all librabries can direct pip install (no need specify version EXCEPt NUMPY)
+NUMPY MUST VERSION 1.26.4
+
+Libraries needed
+
+afinn                              0.1
+bertopic                           0.16.3      
+contractions                       0.1.73      
+datacompy                          0.13.3
+emoji                              2.12.1
+gensim                             4.3.3
+huggingface-hub                    0.24.7
+joblib                             1.4.2
+matplotlib                         3.9.2
+mlflow                             2.16.0
+nbformat                           5.10.4
+nlpaug                             1.1.11
+nltk                               3.9.1
+numpy                              1.26.4   (MUST)
+plotly                             5.24.1
+scikit-learn                       1.5.1
+scikit-learn-intelex               2024.6.0
+seaborn                            0.13.2
+streamlit                          1.38.0
+textblob                           0.18.0.post0
+torch                              2.4.1
+transformers                       4.44.2
+vaderSentiment                     3.3.2
+wordcloud                          1.9.3
+wordninja                          2.0.0
+
+
